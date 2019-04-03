@@ -1,0 +1,4 @@
+A 4 line
+text file
+
+with a empty line
